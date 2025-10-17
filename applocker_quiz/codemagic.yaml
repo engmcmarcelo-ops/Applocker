@@ -12,5 +12,5 @@ workflows:
     publishing:
       email:
         recipients:
-          - SEU_EMAIL@gmail.com
+          - souzaa.marcelodomingos@gmail.com
 
